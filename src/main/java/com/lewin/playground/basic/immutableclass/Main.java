@@ -1,4 +1,4 @@
-package com.lewin.playground.immutableclass;
+package com.lewin.playground.basic.immutableclass;
 
 import java.util.Date;
 

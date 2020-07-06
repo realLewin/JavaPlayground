@@ -1,4 +1,4 @@
-package com.lewin.playground.arraybasic;
+package com.lewin.playground.basic.array;
 
 public class Main {
   public static void main(String[] args) {

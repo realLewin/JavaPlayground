@@ -1,4 +1,4 @@
-package com.lewin.playground.basicstring;
+package com.lewin.playground.basic.string;
 
 public class Main {
   public static void main(String[] args) {

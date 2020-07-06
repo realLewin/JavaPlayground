@@ -1,4 +1,4 @@
-package com.lewin.playground.controlflow;
+package com.lewin.playground.basic.controlflow;
 
 public class Main {
 

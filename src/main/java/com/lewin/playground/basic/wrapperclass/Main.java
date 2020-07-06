@@ -1,4 +1,4 @@
-package com.lewin.playground.wrapperclass;
+package com.lewin.playground.basic.wrapperclass;
 
 public class Main {
   /**
