@@ -6,7 +6,7 @@ import java.net.InetSocketAddress;
 
 public class Main {
   public static void main(String[] args) throws IOException {
-    HttpServer server = HttpServer.create(new InetSocketAddress(4200),0);
+    HttpServer server = HttpServer.create(new InetSocketAddress(7777),0);
     server.createContext("/", new AccessRequestInfo());
     server.setExecutor(null);
     server.start();
