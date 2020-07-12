@@ -13,7 +13,7 @@ public class MyHandler implements HttpHandler {
     public void handle(HttpExchange exchange) throws IOException {
         Headers headers = exchange.getResponseHeaders();
         headers.add("Access-Control-Allow-Origin","*");
-        headers.add("Access-Control-method","GET, POST, PUT, DELETE, PATCH");
+        headers.add("Access-Control-Method","GET, POST, PUT, DELETE, PATCH");
         headers.add("Access-Control-Allow-Headers","Content-Type, Authorization");
 
         InputStream is = exchange.getRequestBody();
