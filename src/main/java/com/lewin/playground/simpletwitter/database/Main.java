@@ -1,6 +1,5 @@
 package com.lewin.playground.simpletwitter.database;
 
-import com.lewin.playground.simpletwitter.networking.Initialization;
 import java.sql.*;
 
 public class Main {

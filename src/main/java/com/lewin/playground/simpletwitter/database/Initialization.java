@@ -1,4 +1,4 @@
-package com.lewin.playground.simpletwitter.networking;
+package com.lewin.playground.simpletwitter.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
